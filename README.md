@@ -51,12 +51,9 @@ streamlit run app.py
 └── README.md              # You're here
 ```
 
-## ✨ Example Results
+## Screenshots
+<img width="1917" height="1093" alt="CCFD" src="https://github.com/user-attachments/assets/65266837-0a4d-4052-98d5-271149b54689" />
 
-| Prediction | Count    |
-|------------|----------|
-| Not Fraud  | 284,259  |
-| Fraud      | 548      |
 
 ## 🧠 Skills Demonstrated
 - Data preprocessing & feature engineering
